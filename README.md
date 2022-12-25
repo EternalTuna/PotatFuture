@@ -5,6 +5,8 @@ Its potat nvm|
 Скачать репо - распаковать - иметь python|
 Выполнить:
 > python -m pip install -r requirements.txt
+
+
 > python main.py
 
 Готово, потатка ваша
